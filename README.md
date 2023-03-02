@@ -4,7 +4,7 @@
 
 - Crie uma API pública em que seja possível listar, cadastrar, deletar e atualizar pessoas (C.R.U.D)
 - Crie um endpoint público de busca por CPF
-- Crie uma interface web. Sugestão: Angular2+, JSF 1.2
+- Crie uma interface web. Sugestão: Angular2+
 
 
 ### O que esperamos ?
